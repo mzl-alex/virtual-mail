@@ -32,9 +32,10 @@ Password: Password123!
 
 ## 🛠️ Installation
 
-1. Import the included SQL file into your **MySQL** database.
-2. Upload `index.php` and `config.php` to a **web server** with **PHP 8.0 or higher**.
-3. Open `config.php` and enter your **database credentials**.
+1. Create the database "virtual_mail".
+2. Import the included SQL file into your **MySQL** database.
+3. Upload `index.php` and `config.php` to a **web server** with **PHP 8.0 or higher**.
+4. Open `config.php` and enter your **database credentials**.
 
 You're now ready to start testing the system.
 
